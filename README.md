@@ -3,6 +3,8 @@
 
 This project utilizes an event-driven, agentic workflow, leveraging separate components for automated ingestion and advanced retrieval.
 
+![System Design](./assets/diagram-export-30-3-2026-1_55_22-AM.svg)
+
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'mainBkg': '#1a1d21', 'mainStr': '#54a3ff', 'clusterBkg': '#121417', 'clusterStr': '#3a3f44' }}}%%
 flowchart LR
